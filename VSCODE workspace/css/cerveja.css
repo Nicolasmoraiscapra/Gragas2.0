@@ -1,0 +1,35 @@
+@font-face {
+    font-family:LOL;
+    src: url('../fontes/Friz\ Quadrata\ Regular.ttf');
+  }
+  @font-face {
+    font-family:Italico;
+    src: url('../fontes/Friz\ Quadrata\ Italic.ttf');
+  }
+h1 {
+    text-align: center;
+    color: #ffffff;
+    background-color: #000000;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-family:LOL;
+    font-size: 3.2rem;
+    padding: 8px;
+}
+.imgPare{
+    width: 700px;
+    height: 700px;
+    box-shadow: 10px 10px 5px black;
+}
+.imgIgual{
+    width: 400px;
+    height: 400px;
+    box-shadow: 10px 10px 5px black;
+    margin-right: 10rem;
+}
+.imgBolsonaro{
+    width: 700px;
+    height: 700px;
+    box-shadow: 10px 10px 5px black;
+    margin-left: 53rem;
+}
